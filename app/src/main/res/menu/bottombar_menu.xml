@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuitem_bottombar_Alarm"
+        android:icon="@drawable/ic_alarm"
+        android:title="알람"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menuitem_bottombar_record"
+        android:icon="@drawable/ic_record"
+        android:title="기록"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menuitem_bottombar_content"
+        android:icon="@drawable/ic_contents"
+        android:title="상식"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
