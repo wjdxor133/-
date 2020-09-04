@@ -16,6 +16,7 @@
 
 ## 사용한 기술
 - JAVA
+- Android
 - SQLite
 
 
