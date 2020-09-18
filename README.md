@@ -7,7 +7,8 @@
 - 인원 : 본인 1명
 - 프로젝트 기간 : 2019.05.20 ~ 2019.06.19
 
-## Demo
+## Demo (click!)
+[![Video Label](https://user-images.githubusercontent.com/47416686/93571597-a6c9a200-f9cf-11ea-95f0-e16640f0ec85.png)](https://www.youtube.com/watch?v=R1YNV8c7Gc0)
 
 
 ## 목표
